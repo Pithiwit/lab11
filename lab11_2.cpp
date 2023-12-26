@@ -82,5 +82,5 @@ int main(){
 	}
 	cout << "------------ Turn end -------------------\n";	
 	
-	checkWinner(playerScore,yugiScore);
+	checkWinner(playerScore,yugiScore); //yahoo
 }
